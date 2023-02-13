@@ -1,6 +1,8 @@
-# valeriegp.github.io
+Valerie Guinn Polgar
+2/13/2023
+Lab 4
 
-Lab 4 Files:
+Files:
     -index.html: Personal Home Page
         Includes my name, photo, and links to my resume and bio pages.
 
@@ -18,7 +20,7 @@ Lab 4 Files:
         Includes a jpeg photo file.
 
 
-Guidelines Met:
+Guidelines:
     -All HTML5 specifications passed.
     -CSS validation passed.
     -Only used HTML5 and CSS for this lab.
