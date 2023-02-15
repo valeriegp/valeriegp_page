@@ -1,8 +1,9 @@
-# valeriegp.github.io
-## Lab 4
+## valeriegp.github.io
+# Lab 4
 
-Files
-=====
+
+Implementation
+==============
 * index.html: Personal Home Page.
 Includes my name, photo, and links to my resume and bio pages.
 
@@ -17,12 +18,16 @@ Includes 6 rules, one of which is a class.
 
 * images folder: Includes valerieFace.jpg file.
 
-
-Guidelines
-==========
 * All HTML5 specifications passed.
+
 * CSS validation passed.
+
 * Only used HTML5 and CSS for this lab.
+
+
+Collaboration
+=============
+* Piazza
 
 
 Time Spent
